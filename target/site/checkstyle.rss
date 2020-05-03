@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2020</copyright>
     <item>
-      <title>File: 1,
+      <title>File: 18,
              Errors: 0,
-             Warnings: 12,
+             Warnings: 1193,
              Infos: 0
       </title>
             <link>http://maven.apache.org/checkstyle.html</link>
@@ -46,13 +46,251 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.App.java">uvsq21921354/App.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.InitialisationJDBC.java">uvsq21921354/InitialisationJDBC.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  12
+                  114
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.PersonnelsJdbcDAO.java">uvsq21921354/PersonnelsJdbcDAO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  151
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.GroupeSerializableDAO.java">uvsq21921354/GroupeSerializableDAO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  21
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.Groupe.java">uvsq21921354/Groupe.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  67
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.PersonnelsUnchangeable.java">uvsq21921354/PersonnelsUnchangeable.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  184
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.InterfaceConnexion.java">uvsq21921354/InterfaceConnexion.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.PersonnelsSerializableDAO.java">uvsq21921354/PersonnelsSerializableDAO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  17
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.ContactsPersonnels.java">uvsq21921354/ContactsPersonnels.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  81
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.JdbcDaoFactory.java">uvsq21921354/JdbcDaoFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  22
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.Serial.java">uvsq21921354/Serial.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  141
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.Connexion.java">uvsq21921354/Connexion.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.SerializableDAO.java">uvsq21921354/SerializableDAO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  47
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.GroupeJdbcDAO.java">uvsq21921354/GroupeJdbcDAO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  180
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.DAOFactory.java">uvsq21921354/DAOFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  21
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.DAO.java">uvsq21921354/DAO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  15
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.MainSerializable.java">uvsq21921354/MainSerializable.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  68
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.AbstractDAOFactory.java">uvsq21921354/AbstractDAOFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  38
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#uvsq21921354.Personnels.java">uvsq21921354/Personnels.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
                 </td>
                 <td>
                   0
